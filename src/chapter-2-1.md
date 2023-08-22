@@ -1,5 +1,4 @@
-Explanation of AI technology and its capabilities for content creation
-===================================================================================================================================
+
 
 In this chapter, we will explore the basics of Artificial Intelligence (AI) technology and its capabilities for content creation.
 

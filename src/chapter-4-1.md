@@ -1,5 +1,4 @@
-Use of machine learning for improving content quality, including grammar and readability checks
-===========================================================================================================================================================
+
 
 In this chapter, we will explore how Machine Learning (ML) can be used to improve content quality, including grammar and readability checks.
 
